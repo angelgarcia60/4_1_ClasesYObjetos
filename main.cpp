@@ -8,6 +8,7 @@
 
 /**
   Utilidad para la asignatura: Crear nuevos tipos de datos (clases) y datos (objetos)
+  
 
   HISTORIA: Tengo 3 amigos, el mejor, el de siempre y el último que hice.
   Quiero saber si mi mejor amigo es más alto que el de siempre.
